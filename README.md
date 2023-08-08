@@ -9,7 +9,7 @@
   - [Analyze sales data from a superstore](https://github.com/YaserDAI2/Super-store)
     
 - <b>Kickstarter Campaign Analysis in New York State:</b>
-  - [Analyze data on Kickstarter campaigns in New York State ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyze data on Kickstarter campaigns in New York State ](https://github.com/YaserDAI2/Kickstarter)
     
 - <b>Investment Feasibility Analysis of Wind Turbine Factories:</b>
   - [Analyze data on the wind turbine industry ](https://github.com/joshmadakor1/Algorithms-Practice)
