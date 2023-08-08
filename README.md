@@ -3,7 +3,7 @@
 <h2> Data Analysis Projects:</h2>
 
 - <b>Esports Investment Analysis:</b>
-  - [Analyze data on the Esports industryt](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyze data on the Esports industryt](https://github.com/YaserDAI2/Esports-Investment-Analysis)
     
 - <b>Superstore Sales Analysis:</b>
   - [Analyze sales data from a superstore](https://github.com/joshmadakor1/Algorithms-Practice)
