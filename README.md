@@ -6,7 +6,7 @@
   - [Analyze data on the Esports industryt](https://github.com/YaserDAI2/Esports-Investment-Analysis)
     
 - <b>Superstore Sales Analysis:</b>
-  - [Analyze sales data from a superstore](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyze sales data from a superstore](https://github.com/YaserDAI2/Super-store)
     
 - <b>Kickstarter Campaign Analysis in New York State:</b>
   - [Analyze data on Kickstarter campaigns in New York State ](https://github.com/joshmadakor1/Algorithms-Practice)
