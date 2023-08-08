@@ -15,7 +15,7 @@
   - [Analyze data on the wind turbine industry ](https://github.com/YaserDAI2/-Investment-Feasibility-Analysis-of-Wind-Turbine-Factories)
     
 - <b>Car Accident Analysis in New York City:</b>
-  - [Analysis data on car accidents in New York City](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analysis data on car accidents in New York City](https://github.com/YaserDAI2/-Car-Accident-Analysis-in-New-York-City)
     
 
 <h2>  Connect with me:</h2>
