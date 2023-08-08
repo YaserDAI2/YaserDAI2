@@ -3,7 +3,7 @@
 <h2> Data Analysis Projects:</h2>
 
 - <b>Esports Investment Analysis:</b>
-  - [Analyze data on the Esports industryt](https://github.com/YaserDAI2/Esports-Investment-Analysis)
+  - [Analyze data on the Esports industry](https://github.com/YaserDAI2/Esports-Investment-Analysis)
     
 - <b>Superstore Sales Analysis:</b>
   - [Analyze sales data from a superstore](https://github.com/YaserDAI2/Super-store)
