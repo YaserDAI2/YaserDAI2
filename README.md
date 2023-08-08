@@ -12,7 +12,7 @@
   - [Analyze data on Kickstarter campaigns in New York State ](https://github.com/YaserDAI2/Kickstarter)
     
 - <b>Investment Feasibility Analysis of Wind Turbine Factories:</b>
-  - [Analyze data on the wind turbine industry ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyze data on the wind turbine industry ](https://github.com/YaserDAI2/-Investment-Feasibility-Analysis-of-Wind-Turbine-Factories)
     
 - <b>Car Accident Analysis in New York City:</b>
   - [Analysis data on car accidents in New York City](https://github.com/joshmadakor1/Algorithms-Practice)
